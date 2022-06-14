@@ -8,9 +8,9 @@
 
 #### Colaboradores
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -23,9 +23,9 @@
 - Danilo Sanada
 - Hugo Diniz
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -38,9 +38,9 @@
 - Mayara Abreu
 - Gabrielle Oliveira
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -53,9 +53,9 @@
 - Martinelli
 - Renata Kim
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -67,9 +67,9 @@
 - Iasmim Vivanco
 - Marcelo Alves
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -80,11 +80,11 @@
 - Amanda Barreto
 - Anderlany (Lany) 
 - Jose Iranildo Junior
-- Nathalia França
+- Nathalia FranÃ§a
 
-#### Link do repositório
+#### [Link do repositÃ³rio](https://github.com/lanyarag/calculadora.git)
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -92,13 +92,13 @@
 
 #### Colaboradores
 
-- Isabel Catão
-- Maíra Heloísa Silva Oliveira
-- Salomão Kim
+- Isabel CatÃ£o
+- MaÃ­ra HeloÃ­sa Silva Oliveira
+- SalomÃ£o Kim
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
 
 ----
 
@@ -111,6 +111,6 @@
 - Matheus Texeira
 - Sabrina Helena Ferreira
 
-#### Link do repositório
+#### Link do repositÃ³rio
 
-#### Descrição/Observação (Opcional)
+#### DescriÃ§Ã£o/ObservaÃ§Ã£o (Opcional)
