@@ -23,7 +23,7 @@
 - Danilo Sanada
 - Hugo Diniz
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/Caroline-githubb/Aula09)
 
 #### Descrição/Observação (Opcional)
 
@@ -38,9 +38,11 @@
 - Mayara Abreu
 - Gabrielle Oliveira
 
-#### Link do repositório
+#### Link do repositório: 
+https://github.com/cgcagnoni/aula09-exercicio
 
 #### Descrição/Observação (Opcional)
+Exercício incompleto pois estamos com dificuldade na implantação das exceções.
 
 ----
 
@@ -53,9 +55,13 @@
 - Martinelli
 - Renata Kim
 
-#### Link do repositório
+#### Link do repositório: [ Grupo 3 ](https://github.com/cassiofreitas/aula09_tratamento_de_excecoes)
 
 #### Descrição/Observação (Opcional)
+ - cassiofreitas
+   - melhorias no tratamento de erros ainda em curso
+   - adicionei os comentários via GitHub
+   - não podemos alterar os dados aqui, como colaboradores; ainda exige pull request.
 
 ----
 
@@ -67,9 +73,11 @@
 - Iasmim Vivanco
 - Marcelo Alves
 
-#### Link do repositório
+#### Link do repositório https://github.com/beatrizfriso/aula9-excecoes
 
-#### Descrição/Observação (Opcional)
+#### Descrição/Observação (Opcional): 
+
+Entrega parcial, ainda estamos resolvendo alguns erros. 
 
 ----
 
@@ -96,7 +104,7 @@
 - Maíra Heloísa Silva Oliveira
 - Salomão Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/isabelalvescatao/aula09-Tratamento_de_erro)
 
 #### Descrição/Observação (Opcional)
 
@@ -111,6 +119,9 @@
 - Matheus Texeira
 - Sabrina Helena Ferreira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sabrinahelena/aula-09_tratamento-de-erro)
 
 #### Descrição/Observação (Opcional)
+
+Atividade foi feita utilizando o LiveShare do Visual Studio.
+
