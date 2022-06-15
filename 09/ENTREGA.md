@@ -38,9 +38,11 @@
 - Mayara Abreu
 - Gabrielle Oliveira
 
-#### Link do repositório
+#### Link do repositório: 
+https://github.com/cgcagnoni/aula09-exercicio
 
 #### Descrição/Observação (Opcional)
+Exercício incompleto pois estamos com dificuldade na implantação das exceções.
 
 ----
 
