@@ -55,9 +55,13 @@ Exercício incompleto pois estamos com dificuldade na implantação das exceçõ
 - Martinelli
 - Renata Kim
 
-#### Link do repositório
+#### Link do repositório: [ Grupo 3 ](https://github.com/cassiofreitas/aula09_tratamento_de_excecoes)
 
 #### Descrição/Observação (Opcional)
+ - cassiofreitas
+   - melhorias no tratamento de erros ainda em curso
+   - adicionei os comentários via GitHub
+   - não podemos alterar os dados aqui, como colaboradores; ainda exige pull request.
 
 ----
 
@@ -116,4 +120,3 @@ Exercício incompleto pois estamos com dificuldade na implantação das exceçõ
 #### Link do repositório
 
 #### Descrição/Observação (Opcional)
-
