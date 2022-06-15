@@ -117,6 +117,7 @@ Exercício incompleto pois estamos com dificuldade na implantação das exceçõ
 - Matheus Texeira
 - Sabrina Helena Ferreira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sabrinahelena/aula-09_tratamento-de-erro)
 
 #### Descrição/Observação (Opcional)
+Atividade foi feita utilizando o LiveShare do Visual Studio.
