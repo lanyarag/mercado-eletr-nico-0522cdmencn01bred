@@ -73,9 +73,9 @@ Exercício incompleto pois estamos com dificuldade na implantação das exceçõ
 - Iasmim Vivanco
 - Marcelo Alves
 
-#### Link do repositório
+#### Link do repositório https://github.com/beatrizfriso/aula9-excecoes
 
-#### Descrição/Observação (Opcional)
+#### Descrição/Observação (Opcional): Entrega parcial, ainda estamos resolvendo alguns erros 
 
 ----
 
