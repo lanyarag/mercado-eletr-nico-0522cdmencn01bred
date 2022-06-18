@@ -102,3 +102,12 @@ https://github.com/ArielLopes888/Aula10
 #### [Link do repositório](https://github.com/sekimzero/Aula10-Refatoracao)
 
 #### Descrição/Observação (Opcional)
+
+### Grupo 7
+
+#### Colaboradora 
+- Anderlany Aragão (Lany)
+
+#### [Link do repositório](https://github.com/lanyarag/dhme_treinamento/tree/master/Mesa6)
+
+#### Descrição/Observação (Opcional)
