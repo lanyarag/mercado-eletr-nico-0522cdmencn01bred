@@ -81,7 +81,7 @@ Mayara Abreu
 - José Iranildo Junior
 - Salomão Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula12-Matriz.git)
 
 #### Descrição/Observação (Opcional)
 
