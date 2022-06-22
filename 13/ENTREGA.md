@@ -93,10 +93,10 @@
 #### Colaboradores
 
 - Amanda Barreto
-- Anderlany Lany
+- Anderlany (Lany)
 - Danilo Sanada
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/enumDictionary.git)
 
 #### Descrição/Observação (Opcional)
 
