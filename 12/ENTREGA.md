@@ -39,8 +39,7 @@
 - Nathalia França
 
 #### Link do repositório
-
-**Obs: Exercicio realizado pelo LiveShare**
+https://github.com/ArielLopes888/Aula12
 
 #### Descrição/Observação (Opcional)
 
