@@ -1,4 +1,4 @@
-# Aula 16 - Entrega do Checkpoint
+# Aula 16 - Introdução à Windows Presentation Foundation
 
 ## Formato da entrega
 
@@ -7,8 +7,11 @@
 ### Grupo 0
 
 #### Colaboradores
+- Anderlany 
+- Carol Cagnoni
+- José Iranildo Junior
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/WpfApp.git)
 
 #### Descrição/Observação (Opcional)
 
