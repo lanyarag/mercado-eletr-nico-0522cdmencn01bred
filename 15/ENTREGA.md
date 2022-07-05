@@ -38,12 +38,12 @@
 
 #### Colaboradores
 
-- Anderlany Lany
+- Anderlany (Lany)
 - Gabrielle Oliveira Santana
 - Ingrid Carol
 - Mayara Abreu
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/checkpoint.git)
 
 #### Descrição/Observação (Opcional)
 
